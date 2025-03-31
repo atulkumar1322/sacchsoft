@@ -177,7 +177,7 @@
     span.navbar-toggler-icon:after {
         content: "";
         color: white;
-        background-image: url('/images/hamburger.png');
+        background-image: url('images/hamburger.png');
         width: 19px;
         height: 17px;
         background-repeat: no-repeat;
