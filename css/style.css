@@ -511,11 +511,12 @@ button.primary-outline-btn:hover {
 .swiper-button-next.testimonial-next::after,
 .blog-next::after {
     content: "";
-    background-image: url('images/nextarrow.svg');
+    background-image: url("images/nextarrow.svg");
     width: 20px;
     height: 17px;
     background-repeat: no-repeat;
     display: inline-block;
+    background-size:20px;
 }
 
 .brand-next::after {
